@@ -1,70 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<svg width="910" height="162" viewBox="0 0 910 162" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M138.863 121V37.96H157.223V71.68H188.663L210.143 37.96H230.543L202.943 80.68L230.543 121H210.023L187.943 88.6H157.223V121H138.863ZM258.138 79.48V79.36C258.138 72.96 259.138 67.16 261.138 61.96C263.138 56.68 266.018 52.2 269.778 48.52C273.618 44.76 278.258 41.88 283.698 39.88C289.218 37.88 295.458 36.88 302.418 36.88H321.258C328.218 36.88 334.418 37.88 339.858 39.88C345.378 41.88 350.018 44.76 353.778 48.52C357.618 52.2 360.538 56.68 362.538 61.96C364.538 67.16 365.538 72.96 365.538 79.36V79.48C365.538 85.96 364.538 91.84 362.538 97.12C360.538 102.32 357.618 106.8 353.778 110.56C350.018 114.24 345.378 117.08 339.858 119.08C334.418 121.08 328.218 122.08 321.258 122.08H302.418C295.458 122.08 289.218 121.08 283.698 119.08C278.258 117.08 273.618 114.24 269.778 110.56C266.018 106.8 263.138 102.32 261.138 97.12C259.138 91.84 258.138 85.96 258.138 79.48ZM276.378 79.48C276.378 87.32 278.618 93.6 283.098 98.32C287.578 102.96 294.018 105.28 302.418 105.28H321.258C329.738 105.28 336.178 102.96 340.578 98.32C345.058 93.6 347.298 87.32 347.298 79.48V79.36C347.298 71.6 345.058 65.4 340.578 60.76C336.178 56.04 329.738 53.68 321.258 53.68H302.418C294.018 53.68 287.578 56.04 283.098 60.76C278.618 65.4 276.378 71.6 276.378 79.36V79.48ZM398.623 79.48V79.36C398.623 72.96 399.623 67.16 401.623 61.96C403.623 56.68 406.503 52.2 410.263 48.52C414.103 44.76 418.743 41.88 424.183 39.88C429.703 37.88 435.943 36.88 442.903 36.88H460.182C466.823 36.88 472.743 37.68 477.943 39.28C483.143 40.8 487.783 43.4 491.863 47.08L481.423 60.52C478.623 58.04 475.463 56.28 471.943 55.24C468.503 54.2 464.583 53.68 460.182 53.68H442.903C438.823 53.68 435.143 54.32 431.863 55.6C428.663 56.8 425.943 58.56 423.703 60.88C421.543 63.12 419.863 65.8 418.663 68.92C417.463 72.04 416.863 75.52 416.863 79.36V79.48C416.943 87.24 419.223 93.48 423.703 98.2C428.263 102.92 434.663 105.28 442.903 105.28H460.182C464.903 105.28 468.983 104.72 472.423 103.6C475.863 102.48 478.863 100.76 481.423 98.44L491.863 111.88C487.943 115.48 483.423 118.08 478.303 119.68C473.263 121.28 467.223 122.08 460.182 122.08H442.903C435.943 122.08 429.703 121.08 424.183 119.08C418.743 117.08 414.103 114.24 410.263 110.56C406.503 106.8 403.623 102.32 401.623 97.12C399.623 91.84 398.623 85.96 398.623 79.48ZM581.607 83.92L617.367 37.96H635.007V121H616.887V65.92L586.527 105.52H576.687L546.207 65.92V121H528.207V37.96H545.727L581.607 83.92ZM673.029 79.48V79.36C673.029 72.96 674.029 67.16 676.029 61.96C678.029 56.68 680.909 52.2 684.669 48.52C688.509 44.76 693.149 41.88 698.589 39.88C704.109 37.88 710.349 36.88 717.309 36.88H736.149C743.109 36.88 749.309 37.88 754.749 39.88C760.269 41.88 764.909 44.76 768.669 48.52C772.509 52.2 775.429 56.68 777.429 61.96C779.429 67.16 780.429 72.96 780.429 79.36V79.48C780.429 85.96 779.429 91.84 777.429 97.12C775.429 102.32 772.509 106.8 768.669 110.56C764.909 114.24 760.269 117.08 754.749 119.08C749.309 121.08 743.109 122.08 736.149 122.08H717.309C710.349 122.08 704.109 121.08 698.589 119.08C693.149 117.08 688.509 114.24 684.669 110.56C680.909 106.8 678.029 102.32 676.029 97.12C674.029 91.84 673.029 85.96 673.029 79.48ZM691.269 79.48C691.269 87.32 693.509 93.6 697.989 98.32C702.469 102.96 708.909 105.28 717.309 105.28H736.149C744.629 105.28 751.069 102.96 755.469 98.32C759.949 93.6 762.189 87.32 762.189 79.48V79.36C762.189 71.6 759.949 65.4 755.469 60.76C751.069 56.04 744.629 53.68 736.149 53.68H717.309C708.909 53.68 702.469 56.04 697.989 60.76C693.509 65.4 691.269 71.6 691.269 79.36V79.48ZM813.513 79.48V79.36C813.513 72.96 814.513 67.16 816.513 61.96C818.513 56.68 821.393 52.2 825.153 48.52C828.993 44.76 833.633 41.88 839.073 39.88C844.593 37.88 850.833 36.88 857.793 36.88H875.073C881.713 36.88 887.633 37.68 892.833 39.28C898.033 40.8 902.673 43.4 906.753 47.08L896.313 60.52C893.513 58.04 890.353 56.28 886.833 55.24C883.393 54.2 879.473 53.68 875.073 53.68H857.793C853.713 53.68 850.033 54.32 846.753 55.6C843.553 56.8 840.833 58.56 838.593 60.88C836.433 63.12 834.753 65.8 833.553 68.92C832.353 72.04 831.753 75.52 831.753 79.36V79.48C831.833 87.24 834.113 93.48 838.593 98.2C843.153 102.92 849.553 105.28 857.793 105.28H875.073C879.793 105.28 883.873 104.72 887.313 103.6C890.753 102.48 893.753 100.76 896.313 98.44L906.753 111.88C902.833 115.48 898.313 118.08 893.193 119.68C888.153 121.28 882.113 122.08 875.073 122.08H857.793C850.833 122.08 844.593 121.08 839.073 119.08C833.633 117.08 828.993 114.24 825.153 110.56C821.393 106.8 818.513 102.32 816.513 97.12C814.513 91.84 813.513 85.96 813.513 79.48Z" fill="white"/>
+<rect y="29" width="100" height="100" rx="20" fill="white"/>
+<path d="M17.7818 71.24H20.2718L30.5918 84.95L40.9118 71.24H43.3718V92H41.0018V74.75L31.2818 87.74H29.8718L20.1818 74.75V92H17.7818V71.24ZM57.2364 80.36H68.3964C69.5764 80.36 70.6164 80.47 71.5164 80.69C72.4364 80.89 73.2064 81.22 73.8264 81.68C74.4664 82.14 74.9464 82.74 75.2664 83.48C75.5864 84.22 75.7464 85.12 75.7464 86.18C75.7464 87.24 75.5864 88.14 75.2664 88.88C74.9464 89.62 74.4664 90.22 73.8264 90.68C73.2064 91.14 72.4364 91.48 71.5164 91.7C70.6164 91.9 69.5764 92 68.3964 92H54.8364V71.24H57.2364V80.36ZM79.7964 92V71.24H82.1964V92H79.7964ZM57.2364 89.96H68.3964C70.0964 89.96 71.3564 89.67 72.1764 89.09C72.9964 88.49 73.4064 87.52 73.4064 86.18C73.4064 84.84 72.9964 83.88 72.1764 83.3C71.3564 82.7 70.0964 82.4 68.3964 82.4H57.2364V89.96Z" fill="#212020"/>
+</svg>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Setup:
+- run ```npm i && npm start|nodemon index.js``` for both client and server side to start the development server

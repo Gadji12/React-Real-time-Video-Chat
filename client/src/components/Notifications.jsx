@@ -10,9 +10,9 @@ const Notifications = () => {
         <>
             {call.isReceivingCall && !callAccepted && (
                 <div style={{ display: 'flex', justifyContent: 'space-around' }}>
-                    <h1>{call.name} is calling:</h1>
+                    <h1>{call.name} звонит вам:</h1>
                     <Button variant="contained" color="primary" onClick={answerCall}>
-                        Answer
+                        Принять звонок
                     </Button>
                 </div>
             )}
