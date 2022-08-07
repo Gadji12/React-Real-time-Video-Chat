@@ -1,10 +1,10 @@
 import React from 'react';
-import { Typography, AppBar } from "@material-ui/core";
-import {makeStyles} from "@material-ui/core/styles";
+import { Typography, AppBar } from '@material-ui/core';
+import { makeStyles } from '@material-ui/core/styles';
 
-import Notifications from "./components/Notifications";
-import Options from "./components/Options";
-import VideoPlayer from "./components/VideoPlayer";
+import VideoPlayer from './components/VideoPlayer';
+import Options from './components/Options';
+import Notifications from './components/Notifications';
 
 const useStyles = makeStyles((theme) => ({
     appBar: {
@@ -38,15 +38,14 @@ const App = () => {
     return (
         <div className={classes.wrapper}>
             <AppBar className={classes.appBar} position="static" color="inherit">
-                <Typography variant="h2" align="center">Video chat</Typography>
+                <Typography variant="h2" align="center">Video Chat</Typography>
             </AppBar>
             <VideoPlayer />
             <Options>
                 <Notifications />
             </Options>
-
         </div>
     );
-}
+};
 
 export default App;
